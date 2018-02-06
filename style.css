@@ -1,0 +1,78 @@
+body{
+  background-image: url("./images/background-image.jpg");
+  width: 100%;
+} 
+
+#about-top{
+  text-align: center;
+}
+
+
+
+.col-md-8{
+  background-color: #fff;
+}
+.ia{
+  font-family: 'Merriweather', serif;
+  font-size: 500%;
+  font-weight: bolder;
+  color: #333
+}
+.am{
+  font-family: 'Merriweather', serif;
+  font-size: 500%;
+  font-weight: bolder;
+  color: #3b5998
+}
+#icons {
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+
+.fab {
+  width: 30%;
+  padding: 20px 0;
+}
+
+.fab:hover {
+  opacity: .8;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-twitter-square {
+  color: #00aced;
+}
+
+.fa-instagram {
+  color: #bc2a8d;
+}
+
+.fa-bandcamp {
+  color: #477987
+}
+
+.fa-spotify {
+  color: #1db954
+}
+
+.fa-soundcloud {
+  color: #ff8800
+}
+
+.fa-github {
+  color: #4078c0
+}
+
+.fa-twitch {
+  color: #6441A4; 
+}
+
+.fa-youtube-square{
+  color: #bb0000;
+}
+
+
