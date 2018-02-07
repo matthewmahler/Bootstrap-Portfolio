@@ -4,12 +4,30 @@ body{
 } 
 
 #about-top{
+  width: 100%;
   text-align: center;
 }
 
+.card-body{
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+}
 
+.connect-body{
+  background-color: #fff;
+  color: #333;
+}
+.img-thumbnail{
+  margin-top: 20px;
+}
 
-.col-md-8{
+.pants
+{
+  height: 395.5px;
+}
+
+.col-md-9{
   background-color: #fff;
 }
 .ia{
@@ -32,7 +50,7 @@ body{
 
 .fab {
   width: 30%;
-  padding: 20px 0;
+  padding: 15px 0;
 }
 
 .fab:hover {
@@ -75,4 +93,22 @@ body{
   color: #bb0000;
 }
 
+.sticky{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+ color: #fff
+}
 
+::-webkit-scrollbar { 
+  display: none; 
+}
+
+a {
+  text-decoration: none;
+
+}
+a:hover{
+  text-decoration: none;
+ }
